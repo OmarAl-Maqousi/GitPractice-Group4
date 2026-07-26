@@ -3,3 +3,10 @@ Name: Omar Al-Maqousi
 University: University of Petra
 Role: Team Leader
 ====================
+
+
+====================
+Name: ALi saleh
+University: Jordan university of science and technology
+Role: Team Member 1
+====================
